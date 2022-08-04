@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{74CFB736-810F-4706-B8A6-AD1383C7D7BC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="draft/Solution.cs">
+    <Files>
+      <File FileName="draft/Solution.cs" Line="16" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="draft" expanded="True">
+            <Node name="draft" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Solution.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/matanamichy/Projects/draft/draft/Solution.cs" relfile="draft/Solution.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.draft PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

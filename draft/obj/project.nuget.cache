@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Pxj7yVRpPObiYI1QMS9KmeO1Y8logy/CFS+J3SHidyT4v50JewhL6LwtrhZwXqBfhqUQhBeMMr1d9JGZn+kXA==",
+  "success": true,
+  "projectFilePath": "/Users/matanamichy/Projects/draft/draft/draft.csproj",
+  "expectedPackageFiles": [
+    "/Users/matanamichy/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/matanamichy/.nuget/packages/selenium.webdriver/4.3.0/selenium.webdriver.4.3.0.nupkg.sha512",
+    "/Users/matanamichy/.nuget/packages/selenium.webdriver.chromedriver/103.0.5060.5300/selenium.webdriver.chromedriver.103.0.5060.5300.nupkg.sha512"
+  ],
+  "logs": []
+}
